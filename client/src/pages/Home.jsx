@@ -38,7 +38,7 @@ const Home = () => {
 
       <section className="features">
         <div className="container">
-          <h2>Why Choose MERN Blog?</h2>
+          <h2>Why shop with Kayoni Graphics?</h2>
           <div className="features-grid">
             <div className="feature-card">
               <h3>Graphics</h3>
